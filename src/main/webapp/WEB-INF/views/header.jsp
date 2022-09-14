@@ -57,7 +57,7 @@
                                                    <li>
                                                    <li>
                                             <a href="#">Sacramento</a>
-                                                                                                          <li>
+                                                   <li>
                                                    <li>
                                             <a href="#">San Francisco</a>
                                                    <li>
