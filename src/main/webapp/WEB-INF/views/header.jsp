@@ -55,10 +55,8 @@
                                                <li>
                                             <a href="#">San Diego</a>
                                                    <li>
-                                                                    <li>
-                                            <a href="#">Sacramento</a>
                                                    <li>
-                                            <a href="#">San Francisco</a>
+                                            <a href="#">Sacramento</a>
                                                    <li>
                                                     <li>
                                             <a href="#">New York</a>
