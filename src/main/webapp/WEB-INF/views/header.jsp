@@ -59,8 +59,6 @@
                                             <a href="#">Sacramento</a>
                                                    <li>
                                                     <li>
-                                            <a href="#">New York</a>
-                                         <li>
                                             <a href="#">Best Drive</a>
                                         </li>
                                     </ul>
